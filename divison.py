@@ -1,5 +1,5 @@
-def add(a,b):
-    answer =  a+b
+def division(a,b):
+    answer =  a/b
     return (answer)
 
 print (divide(4,12))
